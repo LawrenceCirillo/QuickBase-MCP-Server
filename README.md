@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides maximum flexibility for QuickBase operations. This server allows you to create tables, add fields, modify relationships, and perform all QuickBase operations through MCP tools.
 
+<a href="https://glama.ai/mcp/servers/@LawrenceCirillo/QuickBase-MCP-Server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@LawrenceCirillo/QuickBase-MCP-Server/badge" alt="QuickBase Server MCP server" />
+</a>
+
 ## Features
 
 ### Application Management
@@ -280,4 +284,4 @@ This server can help you implement the relationships and new fields defined in y
 
 ## License
 
-MIT License 
+MIT License
